@@ -7,6 +7,6 @@ making a new header
 int myInt = 4;
 ```
 
-Task List
-- [x] Task 1
-- [] Task 2
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
